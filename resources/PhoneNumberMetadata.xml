@@ -4796,7 +4796,7 @@
             4\d|
             5[14-9]|
             6[015-79]|
-            7[578]|
+            7[5789]|
             8[7-9]
           )\d{6}
         </nationalNumberPattern>
@@ -7644,7 +7644,7 @@
              95[89] is assigned to some CDMA providers. Prefix 9[468] added after a user report.-->
         <nationalNumberPattern>
           9(?:
-            [1-468]\d|
+            [1-8]\d|
             5[89]
           )\d{6}
         </nationalNumberPattern>
